@@ -1,0 +1,26 @@
+.logo{
+margin-top: 120px;
+text-align: center;
+align-items: center;
+display: flex;
+justify-content: center;
+}
+.search{
+    text-align: center;
+    margin-top: 35px;
+
+}
+.search form button{
+    border:1px solid green;
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 60px;
+}
+.search form input.search_form{
+    padding: 20px 10px 20px 10px;
+    border: 1px solid red;
+    width: 40%;
+    height: 50px;
+    border-radius: 100px;
+}
